@@ -2,7 +2,7 @@ markdown: redcarpet
 gems:
   - jekyll-seo-tag
   
-  title - Home
+  title - The Day's Done
   description - jsdbcjhsdbchjbjdkbc
   url - http://thedaysdone.com/index.html
   
